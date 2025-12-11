@@ -44,3 +44,8 @@ print(f"The calculated median is: {median}")
 # --- Output should be:
 # The calculated average (mean) is: 35.0
 # The calculated median is: 35.0 (average of 30 and 40)
+
+# ... (Your existing code) ...
+
+# --- Added for branching demonstration ---
+print("\n--- Branch successfully created and merged! ---")
